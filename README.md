@@ -4,9 +4,11 @@
 
 ** Final project **
 
-linK: https://youtu.be/b8b2cXb5RCc
+- linK: https://youtu.be/b8b2cXb5RCc
 
--story: I made a book floating over the universe. It's fall down to the earth and on my table all of the sudden. I grab the book and read it. 
+- story: I made a book floating over the universe. It's fall down to the earth and on my table all of the sudden. I grab the book and read it. 
+
+- for the code, visit <final-project/>
 
 
 
